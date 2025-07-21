@@ -9,7 +9,7 @@ The goal is to uncover key factors influencing house prices and apply **explorat
 This project is to answer questions as part one of peer graded assignment from IBM Data Analyst Certification from Coursera
 I need to answer these followings and implementing my hypothesis testing skills on this task:
 
-###TASK 1
+### TASK 1
 - Question 1 : Is there a significant difference in median value of houses bounded by the Charles river or not? (T-test for independent samples)
 - Question 2 : Is there a difference in Median values of houses (MEDV) for each proportion of owner occupied units built prior to 1940 (AGE)? (ANOVA)
 - Question 3 : Can we conclude that there is no relationship between Nitric oxide concentrations and proportion of non-retail business acres per town? (Pearson Correlation)
