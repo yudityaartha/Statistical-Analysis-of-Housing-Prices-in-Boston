@@ -1,12 +1,17 @@
 # Statistical Analysis of Housing Prices in Boston
 
 This project explores the **Boston Housing Prices** dataset using Python. 
+
 The goal is to uncover key factors influencing house prices and apply **exploratory data analysis (EDA)** and **hypothesis testing** to draw meaningful conclusions.
 
 ---
 
 ## Project Objectives
-This project is to answer questions as part one of peer graded assignment from IBM Data Analyst Certification from Coursera
+In this projject I need to uncover key insights and draw correct conclusion from the boston housing prices dataset
+
+This project is one of peer graded assignment from IBM Data Analyst Certification from Coursera
+
+
 I need to answer these followings and implementing my hypothesis testing skills on this task:
 
 ### TASK 1
