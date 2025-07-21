@@ -53,7 +53,7 @@ These questions will train my skill to do followings:
 
 ## Key Insights
 
-### A. There is a statistical significant difference or correlated on:
+### A. There is a statistical significant difference (or correlation) on:
 - Nitric oxide concentrations and proportion of non-retail business acres per town 
 - Weighted distance to the five Boston employment centres on the median value of owner occupied homes 
 - Median value of houses that bounded by and not bounded by the Charles river 
