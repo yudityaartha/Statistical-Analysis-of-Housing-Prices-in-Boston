@@ -77,17 +77,24 @@ You can explore the full Jupyter notebook here:
 
 ## Future Improvements
 
-- Try **log transformation** or **polynomial features** to improve model performance
-- Use **Ridge/Lasso Regression** to handle multicollinearity
-- Apply **feature selection** or **PCA** for dimensionality reduction
-- Test with modern housing datasets like **Ames Housing**
+- **Evaluate Model Performance**
+    
+- **Feature Coefficient Table**
+    
+- **Log Transformation on `MEDV`**
+    
+- **Outlier Detection and Handling**
+    
+- **Try Regularized Models (Ridge, Lasso)**
+    
+- **Train/Test Visualization**
 
 ---
 
 ## About Me
 
-I’m Yuditya Artha — a licensed apothecary pivoting into data science and analytics.  
-This project is part of my portfolio to demonstrate practical skills in data cleaning, analysis, and modeling using Python.
+I’m Yuditya Artha, a licensed apothecary graduate pivoting into data science and analytics.  
+This project is part of my portfolio to demonstrate practical skills in data wrangling, statistical analysis, and hypothesis testing using Python.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/yuditya-artha/) 👋
 
