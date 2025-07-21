@@ -53,17 +53,17 @@ These questions will train my skill to do followings:
 
 ## Key Insights
 
-### A. There is a statistical significant difference (or correlation) on:
+#### A. There is a statistical significant difference (or correlation) on:
 - Nitric oxide concentrations and proportion of non-retail business acres per town 
 - Weighted distance to the five Boston employment centres on the median value of owner occupied homes 
 - Median value of houses that bounded by and not bounded by the Charles river 
 - Residual analysis shows the model's limitations and non-linear patterns
 
-### B. There are some outliers for MEDV value (showed on boxplot), the median values lies around $21.000
+#### B. There are some outliers for MEDV value (showed on boxplot), the median values lies around $21.000
 
-### C. Total of Charles River dummy variable that tract doest not bounds river is significantly higher than not bounded by river
+#### C. Total of Charles River dummy variable that tract doest not bounds river is significantly higher than not bounded by river
 
-### D. It is indicated that owner age that occupied houses which age lower than 35 shows relatively higher median value than other group age (from the boxplot chart)
+#### D. It is indicated that owner age that occupied houses which age lower than 35 shows relatively higher median value than other group age (from the boxplot chart)
 Also MEDV of 35 - 70 age group shows more frequent outliers compare to other groups
 
 ---
