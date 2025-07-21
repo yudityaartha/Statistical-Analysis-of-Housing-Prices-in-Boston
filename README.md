@@ -7,8 +7,7 @@ The goal is to uncover key factors influencing house prices and apply **explorat
 ---
 
 ## Project Objectives
-In this projject I need to uncover key insights and draw correct conclusion from the boston housing prices dataset
-
+In this project I need to uncover key insights, discover relations between multiple factors and draw correct conclusion from the boston housing prices dataset.
 This project is one of peer graded assignment from IBM Data Analyst Certification from Coursera
 
 
@@ -30,7 +29,7 @@ I need to answer these followings and implementing my hypothesis testing skills 
 These questions will train my skill to do followings:
 - Perform **exploratory data analysis** and **descriptive statistical analysis** of the dataset
 - Create required data viz to help EDA and statistical analysis process and to have better understanding of the dataset
-- Find significance between multiple variables
+- Find relationship significance between multiple variables
 - Interpret coefficients to understand real-world implications
 
 ---
@@ -48,7 +47,7 @@ These questions will train my skill to do followings:
 
 - Dataset used: 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/boston_housing.csv'
 - Target variable: **MEDV** (Median value of owner-occupied homes in $1000s)
-- Features include crime rate, proportion of non-retail business acres, nitric oxide concentration, average number of rooms, etc.
+- Variables include crime rate, proportion of non-retail business acres, nitric oxide concentration, average number of rooms, etc.
 
 ---
 
