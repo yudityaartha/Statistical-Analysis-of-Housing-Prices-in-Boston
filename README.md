@@ -93,7 +93,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/yuditya-artha/) 👋
 
 ---
 
-## 📬 Feedback or Collaboration?
+## Feedback or Collaboration?
 
 Open to suggestions, collaboration, or feedback!  
 Feel free to raise an issue or DM me on [GitHub](https://github.com/yudityaartha) or [LinkedIn](https://www.linkedin.com/in/yuditya-artha/).
